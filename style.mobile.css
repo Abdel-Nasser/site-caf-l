@@ -1,0 +1,26 @@
+/* header*/
+
+body {
+  display: block;
+}
+
+.header nav h1 {
+  float: none;
+  padding: 30px;
+  padding-top: 5%;
+  margin-bottom: 0;
+}
+
+.header nav ul {
+  float: none;
+  list-style: none;
+}
+
+.header nav ul li {
+  float: none;
+}
+
+.feature {
+  float: none;
+  width: 50%;
+}
